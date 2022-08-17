@@ -1,0 +1,14 @@
+.global-enter-active,
+.global-leave-active {
+  -webkit-transition: transform 1000ms ease-in-out;
+  -moz-transition: transform 1000ms ease-in-out;
+  -o-transition: transform 1000ms ease-in-out;
+  transition: transform 1000ms ease-in-out;
+}
+
+.transition-transform {
+  -webkit-transition: transform 1200ms ease-in-out;
+  -moz-transition: transform 1200ms ease-in-out;
+  -o-transition: transform 1200ms ease-in-out;
+  transition: transform 1200ms ease-in-out;
+}
